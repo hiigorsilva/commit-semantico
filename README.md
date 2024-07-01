@@ -1,7 +1,5 @@
 ### Commits Semânticos
 
-- Sintaxe de uso: `<prefixo>: <descrição do que foi feito>`
-
 | Prefixo | Descrição | Significado |
 | ------- | --------- | ----------- |
 | feat    | Features  | Uma nova funcionalidade |
@@ -15,3 +13,8 @@
 | ci    | Integrações Contínuas  | Alterações em nossos arquivos e scripts de configuração de CI (exemplos de escopos: Travis, Circle, BrowserStack, SauceLabs) |
 | chore    | Tarefas  | Outras mudanças que não modificam arquivos de código-fonte ou de teste |
 | revert    | Reverter  | Reverte um commit anterior |
+
+</br>
+
+- Sintaxe de uso: `<prefixo>: <descrição do que foi feito>`
+- Créditos: [Adriana Saty](https://github.com/AdrianaSaty)
