@@ -1,5 +1,7 @@
 ### Commits Semânticos
 
+- Sintaxe de uso: `<prefixo>: <descrição do que foi feito>`
+
 | Prefixo | Descrição | Significado |
 | ------- | --------- | ----------- |
 | feat    | Features  | Uma nova funcionalidade |
